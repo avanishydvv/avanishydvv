@@ -36,9 +36,9 @@ const avanishYadav = {
 ### 📌 mintlify-clone
 
 <div align="left">
-  <a href="https://github.com/avanishydvv/mintlify-clone">
+  <!-- <a href="https://github.com/avanishydvv/mintlify-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=mintlify-clone&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
-  </a>
+  </a> -->
 </div>
 
 | Layer | Technology |
@@ -53,9 +53,9 @@ const avanishYadav = {
 ### 📌 Cursor-clone
 
 <div align="left">
-  <a href="https://github.com/avanishydvv/Cursor-clone">
+  <!-- <a href="https://github.com/avanishydvv/Cursor-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=Cursor-clone&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
-  </a>
+  </a> -->
 </div>
 
 | Layer | Technology |
