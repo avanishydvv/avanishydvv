@@ -92,11 +92,11 @@ const avanishYadav = {
 
 <br>
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avanishydvv&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
+</div> -->
 
 <br>
 
