@@ -86,7 +86,7 @@ const avanishYadav = {
 <img src="https://github-readme-stats.vercel.app/api?username=avanishydvv&show_icons=true&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishydvv&layout=compact&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
 
-<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&cache_bust=1" />
+<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
