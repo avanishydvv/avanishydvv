@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Avanish%20Yadav&fontSize=45&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Avanish%20Yadav&fontSize=45&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/avanishydvv">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Frontend+Developer;Building+with+HTML%2C+CSS%2C+JS%2C+C%2B%2B%2C+C;Cloning+%26+Rebuilding+Cool+Products;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
