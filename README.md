@@ -33,20 +33,20 @@ const avanishYadav = {
 
 ## 🚀 Featured Projects
 
-### 📌 mintlify-clone
+### 📌 Time-Arenaa
 
 <div align="left">
-  <!-- <a href="https://github.com/avanishydvv/mintlify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=mintlify-clone&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
+  <!-- <a href="https://github.com/avanishydvv/Time-Arenaa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=Time-Arenaa&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
   </a> -->
 </div>
 
 | Layer | Technology |
 |---|---|
-| Frontend | CSS |
-| Type | Clone of Mintlify |
+| Frontend | React + JavaScript |
+| Type | Timeer for focus & chat application |
 
-🔗 [Code](https://github.com/avanishydvv/mintlify-clone)
+🔗 [Code](https://github.com/avanishydvv/Time-Arenaa)
 
 <br>
 
