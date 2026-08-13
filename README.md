@@ -46,8 +46,7 @@ const avanishYadav = {
 | Frontend | React + JavaScript |
 | Type | Timeer for focus & chat application |
 
-🔗 [Code](https://github.com/avanishydvv/Time-Arenaa)  
-<br>
+🔗 [Code](https://github.com/avanishydvv/Time-Arenaa)  <br>
 🔗 [Deployed Link ](https://timearenaa.vercel.app/login)
 
 <br>
