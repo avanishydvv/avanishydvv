@@ -81,9 +81,18 @@ const avanishYadav = {
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=dracula" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com/?user=avanishydyv&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=radical" alt="GitHub Streak" /> -->
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=avanishydvv&theme=dark&hide_border=true" /> -->
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=avanishydvv&theme=tokyonight&hide_border=true" /> -->
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=avanishydvv&theme=tokyonight&hide_border=false" width="800px" alt="GitHub Streak" />
+  <br>
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=avanishydvv&theme=tokyonight&hide_border=false&background=0D1117&border=30363D&stroke=7DD3FC&ring=7DD3FC&fire=FF9D00&currStreakNum=FFFFFF&sideNums=7DD3FC&currStreakLabel=7DD3FC&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak" />
+
+  
+ <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=avanishydvv&theme=tokyonight&hide_border=false&background=0D1117&border=7DD3FC&stroke=7DD3FC&ring=A78BFA&fire=FF9D00&currStreakNum=FFFFFF&sideNums=7DD3FC&currStreakLabel=A78BFA&sideLabels=7DD3FC&dates=94A3B8" alt="GitHub Streak" /> -->
 </a>
 
 </div>
