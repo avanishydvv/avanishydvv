@@ -78,14 +78,23 @@ const avanishYadav = {
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=avanishydvv&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=avanishydyv&theme=radical" alt="GitHub Streak" />
+</a>
 
 </div>
 
-<br>
+<!-- <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&hide_border=true" alt="GitHub Streak" />
+
+</div> -->
+
+<br> 
 
 ## 📈 Contribution Activity
 <div align="center">
