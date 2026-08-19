@@ -81,14 +81,23 @@ const avanishYadav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avanishydvv&show_icons=true&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishydvv&layout=compact&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
-
-<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=avanishydvv&theme=nord&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <br>
+
+## 📈 Contribution Activity
+<div align="center">
+
+<!-- GitHub Contribution Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avanishydvv&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<br>
+
+
 
 <!-- ## 🏆 Trophies
 
@@ -98,13 +107,13 @@ const avanishYadav = {
 
 <br>
 
-## 📈 Contribution Activity
+<!-- <p>📈 Contribution Activity</p>  -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avanishydvv&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" />
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->
 
 ## 🔗 Connect With Me
 
