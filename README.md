@@ -35,7 +35,7 @@ const avanishYadav = {
 
 **Skills**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,git,java,github,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,java,github,tailwind," />
 
 <br>
 
