@@ -20,14 +20,22 @@
 
 ```typescript
 const avanishYadav = {
-  title: "CS Student | Frontend Developer",
-  stack: ["HTML", "CSS", "JavaScript", "C++", "C"],
-  launchedProjects: ["mintlify-clone", "Cursor-clone"],
+  title: "CSE Student | Frontend Developer",
+  stack: ["HTML", "CSS", "JavaScript", "C++", "C","tailwind","git","github","java"],
+  launchedProjects: ["Time-Arenaa", "Cursor-clone"],
   certifications: [],
   status: "Open to Work 🟢",
   openTo: ["Frontend Roles", "Internships", "Collaborations", "Freelance Projects"]
 };
 ```
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Skills**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,git,java,github,tailwind" />
 
 <br>
 
@@ -68,17 +76,6 @@ const avanishYadav = {
 
 <br>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br>
 
 ## 📊 GitHub Stats
 
