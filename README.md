@@ -69,7 +69,7 @@ const avanishYadav = {
 
 | Layer | Technology |
 |---|---|
-| Frontend | HTML |
+| Frontend | HTML + CSS |
 | Type | Clone of Cursor (made by Avanish Yadav) |
 
 🔗 [Code](https://github.com/avanishydvv/Cursor-clone)
