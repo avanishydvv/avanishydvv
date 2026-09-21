@@ -106,28 +106,29 @@ const avanishYadav = {
 <br> 
 
  📈 Contribution Activity 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+ <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-3d-contrib/profile-night-green.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-3d-contrib/profile-green.svg"
+    />
+    <img
+      src="./profile-3d-contrib/profile-green.svg"
+      alt="GitHub 3D Contribution Graph"
+      width="100%"
+    />
+  </picture>
 </p>
+<!-- <p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+</p> -->
 <br>
 
 
-
-<!-- ## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avanishydvv&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
-</div> -->
-
-<br>
-
-<!-- <p>📈 Contribution Activity</p>  -->
-
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avanishydvv&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" />
-</div> -->
-
-<!-- <br> -->
 
 ## 🔗 Connect With Me
 
