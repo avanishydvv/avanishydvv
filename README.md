@@ -41,6 +41,24 @@ const avanishYadav = {
 
 ## 🚀 Featured Projects
 
+
+### 📌 JEEVAN PLUS
+
+<div align="left">
+  <!-- <a href="https://github.com/avanishydvv/Cursor-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=Cursor-clone&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
+  </a> -->
+</div>
+
+| Layer | Technology |
+|---|---|
+| FULL STACK| FRONTEND + BACKEND |
+| Type | AI Powered Organ And Blood Donation Management System|
+
+🔗 [Deployed Link ](https://jeevanplus.vercel.app/)
+
+<br>
+
 ### 📌 Time-Arenaa
 
 <div align="left">
@@ -59,22 +77,6 @@ const avanishYadav = {
 
 <br>
 
-### 📌 Cursor-clone
-
-<div align="left">
-  <!-- <a href="https://github.com/avanishydvv/Cursor-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avanishydvv&repo=Cursor-clone&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc" />
-  </a> -->
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML + CSS |
-| Type | Clone of Cursor (made by Avanish Yadav) |
-
-🔗 [Code](https://github.com/avanishydvv/Cursor-clone)
-
-<br>
 
 
 ## 📊 GitHub Stats
@@ -143,7 +145,7 @@ const avanishYadav = {
 <a href="mailto:avanishydvv@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://avanishyadav.vercel.app">
+<a href="https://avanishydv.tech">
   <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0d1117" />
 </a>
 
